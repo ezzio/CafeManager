@@ -1,0 +1,14 @@
+
+.menu{
+    display: flex;
+    justify-content: flex-start;
+    flex-wrap: wrap;
+}
+
+.MuiCardActions-root.MuiCardActions-spacing{
+    justify-content: space-between;
+}
+
+.card-menu {
+    width: 324px;
+}
